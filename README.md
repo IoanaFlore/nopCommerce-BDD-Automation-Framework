@@ -37,7 +37,7 @@ The project is organized as follows:
 
 
 ## Clone Project
-Install Git Bash terminal, select a folder where you want to copy the project and then run in the Git Bash this command: "git clone https://github.com/Aniod01/Proiect-Testare-Automata-BDD.git"
+Install Git Bash terminal, select a folder where you want to copy the project and then run in the Git Bash this command: "git clone https://github.com/IoanaFlore/nopCommerce-BDD-Automation-Framework.git"
 
 ## Installation
 To install the required libraries, execute the following commands:
