@@ -2,7 +2,7 @@
 
 
 ## Introduction
-nopCommwwece (https://demo.nopcommerce.com/) is an E-Commerce page to buy electronic devices, computers, books, jewelry online.
+nopCommece (https://demo.nopcommerce.com/) is an E-Commerce page to buy electronic devices, computers, books, jewelry online.
 - Design pattern used: page object model(POM)
 - Methodology: behavior driven development(BDD)
 - Gherkin language for various features of application like login, register, search results.
